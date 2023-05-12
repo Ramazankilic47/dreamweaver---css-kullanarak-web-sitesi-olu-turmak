@@ -1,0 +1,87 @@
+@charset "utf-8";
+.container {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #00F;
+	height: 768px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.header {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #9F3;
+	float: left;
+	height: 250px;
+	width: 1024px;
+}
+.icerik {
+	color: #FFF;
+	background-color: #C36;
+	float: left;
+	height: 450px;
+	width: 1024px;
+}
+.footer {
+	background-color: #333;
+	float: left;
+	height: 70px;
+	width: 1024px;
+	color: #FFF;
+}
+.logo {
+	color: #333;
+	background-color: #0FF;
+	float: left;
+	height: 100px;
+	width: 250px;
+	margin-top: 70px;
+	margin-left: 20px;
+}
+.menu {
+	color: #FFF;
+	float: right;
+	height: 50px;
+	width: 550px;
+	margin-top: 80px;
+	margin-right: 20px;
+}
+.gorsel {
+	background-color: #9F3;
+	float: left;
+	height: 350px;
+	width: 1024px;
+}
+.yazialani {
+	color: #FFF;
+	float: left;
+	height: 80px;
+	width: 900px;
+	margin-top: 10px;
+	margin-left: 60px;
+}
+.footeryazi {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	color: #FFF;
+	float: left;
+	height: 40px;
+	width: 400px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.hakkimdayazi {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	color: #FFF;
+	text-decoration: none;
+	float: left;
+	height: 350px;
+	width: 900px;
+	margin-top: 40px;
+	margin-left: 60px;
+	text-align: justify;
+}
